@@ -1,4 +1,4 @@
-# Aayushmi Adhikari
+# Ayushmi Adhikari
 
 ![ExaltedAccomplishedHornedtoad-size_restricted](https://github.com/Ayushmi-Adh/Ayushmi-Adh/assets/132826306/912a2b02-cb17-46a4-91c1-47604ca4473a)
 
