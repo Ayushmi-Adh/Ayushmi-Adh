@@ -11,8 +11,7 @@ I'm deeply fascinated by the potential of machine learning to transform industri
 ### Get in Touch with me:
 
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/ayushmi-adhikari-6b94b71a4/)
-[![Twitter]((https://github.com/Ayushmi-Adh/Ayushmi-Adh/assets/132826306/06035019-0c61-4b1f-ac71-0ecac7941282)
-)](https://twitter.com/LenthusiastM)
+[![Twitter](https://about.twitter.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png)](https://twitter.com/LenthusiastM)
 
 
 
