@@ -14,27 +14,16 @@ I'm deeply fascinated by the potential of machine learning to transform industri
   <img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Twitter Logo" width="50" height="50">
 </a>
 
-# My GitHub Profile
-
 ## Technologies Used
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  - Used for general programming tasks.
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  - Used for data manipulation and analysis.
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  - Used for numerical operations on arrays.
-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  - Used for machine learning tasks.
-- ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-  - Used for scientific and technical computing.
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  - Used for interactive data analysis and visualization.
-- ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  - Used for spreadsheet and data analysis.
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-  - Used for database querying and management.
-
+- ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
+- ![NumPy](https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy)
+- ![scikit-learn](https://img.shields.io/badge/-scikit_learn-black?style=for-the-badge&logo=scikit-learn)
+- ![SciPy](https://img.shields.io/badge/-SciPy-black?style=for-the-badge&logo=scipy)
+- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
+- ![Microsoft Excel](https://img.shields.io/badge/-Excel-black?style=for-the-badge&logo=microsoft-excel)
+- ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=sql)
 
 
 
