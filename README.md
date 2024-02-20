@@ -32,6 +32,8 @@ I'm deeply fascinated by the potential of machine learning to transform industri
   - Used for interactive data analysis and visualization.
 - ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   - Used for spreadsheet and data analysis.
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+  - Used for database querying and management.
 
 
 
