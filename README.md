@@ -14,7 +14,7 @@ I'm deeply fascinated by the potential of machine learning to transform industri
   <img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Twitter Logo" width="50" height="50">
 </a>
 
-## Technologies Used
+## Technologies Used:
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=black) ![NumPy](https://img.shields.io/badge/-NumPy-orange?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit_learn-success?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/-Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-red?style=for-the-badge&logo=sql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
