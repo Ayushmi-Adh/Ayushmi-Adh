@@ -5,7 +5,7 @@
 
 ### Machine Learning Enthusiast | Data Science Explorer 🐍🤖📊
 
-Welcome to my GitHub profile! I'm Aayushmi Adhikari, a dedicated machine-learning enthusiast with a passion for exploring and applying data science concepts to real-world problems.
+Welcome to my GitHub profile! I'm Aayushmi Adhikari, a dedicated machine learning enthusiast with a passion for exploring and applying data science concepts to real-world problems.
 
 I'm deeply fascinated by the potential of machine learning to transform industries & improve lives.
 
@@ -18,7 +18,6 @@ I'm deeply fascinated by the potential of machine learning to transform industri
 ## Technologies Used:
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=black) ![NumPy](https://img.shields.io/badge/-NumPy-orange?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit_learn-success?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/-Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-red?style=for-the-badge&logo=sql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
 
 
 
