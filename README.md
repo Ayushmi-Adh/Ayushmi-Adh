@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! I am Aayushmi Adhikari, a dedicated machine-learning enthusiast with a passion for exploring and applying data science concepts to real-world problems.
 
-I'm deeply fascinated by the potential of machine learning to transform industries & improve lives.
+I am deeply fascinated by the potential of machine learning to transform industries & improve lives.
 
 ### Get in Touch with me:
 
